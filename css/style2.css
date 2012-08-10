@@ -1,0 +1,20 @@
+a,a:visited,a:link{
+    color:#5c57f7; /*Un solo color para todos los links*/
+}
+.b{
+	border:solid thin gray;
+}
+body > header{
+    text-align: center;
+}
+body > footer{
+    text-align: center;
+}
+body > #container{
+    min-height: 200px;
+}
+#container section{
+	display: inline-block;
+    border:solid thin #dadada;
+	width:49%;
+}
