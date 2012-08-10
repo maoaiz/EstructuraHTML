@@ -9,12 +9,19 @@ body > header{
 }
 body > footer{
     text-align: center;
+	
+	/*centrar con 40%*/
+	margin:0 auto;
+	width: 40%;
+	/*centrar con 40%*/
+	
+	
 }
 body > #container{
     min-height: 200px;
 }
 #container section{
-	display: inline-block;
+	display: inline-block;/*alinear los section*/
     border:solid thin #dadada;
 	width:49%;
 }
